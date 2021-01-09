@@ -45,7 +45,7 @@
 
 -	Doing transfer learning on YOLOv4 tiny and Mobilenet v2 models for object detection; optimized the models to reach a recalling rate of over 80 and accuracy rate of over 95
 
-### Specific instruction: see [final wrapped-up file](weekly%20reports/Final%20wrapped%20up.pptx)
+### Specific instructions: see [final wrapped-up file](weekly%20reports/Final%20wrapped%20up.pptx)
 
 ### Equipments
 - [Waveshare JetBot AI Kit a Literally Smart Robot Powered by Jetson Nano](https://www.amazon.com/Waveshare-JetBot-Kit-Accessories-JetBot-Blue/dp/B07V8JL4TF/ref=sr_1_2_sspa?dchild=1&keywords=jetbot&qid=1610200453&sr=8-2-spons&smid=A50C560NZEBBE&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExR0RIWTQwUjg2SzBTJmVuY3J5cHRlZElkPUEwODA3NTYzMk5HWFBHRlZBTlRQRSZlbmNyeXB0ZWRBZElkPUEwMDkzNzkwQ0dMQ0dYWEhGR09CJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1)
