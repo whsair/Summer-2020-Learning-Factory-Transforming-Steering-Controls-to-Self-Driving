@@ -77,7 +77,7 @@
 - reference project: https://github.com/jkjung-avt/tensorrt_demos
 
 ### Datasets
-Collect 981 in total 224 x 224 raw image by using jetbot camera (high noise && mantual labeled)
+Collecting 981 in total 224 x 224 raw image by using jetbot camera (high noise && mantual labeled)
 
     - intersection 195 imgs
     - no left turn 199 imgs
@@ -110,10 +110,10 @@ Collect 981 in total 224 x 224 raw image by using jetbot camera (high noise && m
 ![plot](first_test.gif)
 
 ### Wireless Control
-implemented by remote desk
+Implemented by remote desk
  - NoMachine
 
 ## Final Report
-  - [individual report](https://youtu.be/VCOE-HqE7u8)
+  - [Individual report](https://youtu.be/VCOE-HqE7u8)
   - [Group report](https://youtu.be/vH0zk6sewjk)
   
