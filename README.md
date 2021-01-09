@@ -74,7 +74,7 @@
     - Pycuda
     - onnx 1.14
 - package links: https://jkjung-avt.github.io/jetpack-4.3/
-- reference project: https://github.com/jkjung-avt/tensorrt_demos
+- reference: https://github.com/jkjung-avt/tensorrt_demos
 
 ### Datasets
 Collecting 981 in total 224 x 224 raw image by using jetbot camera (high noise && mantual labeled)
@@ -109,7 +109,7 @@ Collecting 981 in total 224 x 224 raw image by using jetbot camera (high noise &
 
 - WIRELESS MODE: [SSDMobile-V2](https://drive.google.com/file/d/1c3l0KR-jy-uijQPBIO5OA5TKZKatR8bF/view?usp=sharing) & [YOLO-V4-Tiny](https://drive.google.com/file/d/1Xm74NVDunqzRvSBPHtUBWtQi36dGzhC4/view?usp=sharing)
 
-  - first trial
+  - First trial
   
 ![plot](first_test.gif)
 
