@@ -102,9 +102,13 @@ Collecting 981 in total 224 x 224 raw image by using jetbot camera (high noise &
 
 ### Video Reports
 - Teleoperation: [Teleoperation Testing](https://drive.google.com/file/d/1SEkde6XVzkewT6LH91lM18Px4zhJcs8a/view?usp=sharing)
+
 - Detecto testing: [1.MOV](https://drive.google.com/file/d/1SEkde6XVzkewT6LH91lM18Px4zhJcs8a/view?usp=sharing) & [2.MOV](https://drive.google.com/file/d/1AMLOAk8_cQoaDnBBNYpHbcnsGg_yG-T5/view?usp=sharing)
+
 - MAX POWER MODE (connected to wires): [SSDMobile-V2](https://drive.google.com/file/d/1UFFwuGqpXytgDv--Ih3T0ZB56-IWadab/view?usp=sharing) & [YOLO-V4-Tiny](https://drive.google.com/file/d/1TgTh_AS7PfQYSGVkxI1BSDHEpGDbUsXR/view?usp=sharing)
+
 - WIRELESS MODE: [SSDMobile-V2](https://drive.google.com/file/d/1c3l0KR-jy-uijQPBIO5OA5TKZKatR8bF/view?usp=sharing) & [YOLO-V4-Tiny](https://drive.google.com/file/d/1Xm74NVDunqzRvSBPHtUBWtQi36dGzhC4/view?usp=sharing)
+
   - first trial
   
 ![plot](first_test.gif)
